@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T07:58:13.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="HkkI939MsHCoBLWcutBr" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T07:59:56.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="hMANPYQpqJJ4DR361F4b" version="24.5.5" type="github">
   <diagram name="Page-1" id="EcqNfrim0UmWAMcfIdFD">
     <mxGraphModel dx="979" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint x="40" y="100" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZzpUM9VxHZeIErT4uhQ-3" value="&lt;strong&gt;CPU&lt;/strong&gt;: Dual Intel Xeon Silver 4214R (or equivalent)&lt;br&gt;&lt;strong&gt;RAM&lt;/strong&gt;: 64 GB ECC RAM&lt;br&gt;HD:1 TB NVMe SSD for the database" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="iZzpUM9VxHZeIErT4uhQ-3" value="&lt;strong&gt;CPU&lt;/strong&gt;: Dual Intel Xeon Silver 4214R (or equivalent)&lt;br&gt;&lt;strong&gt;RAM&lt;/strong&gt;: 64 GB ECC RAM&lt;br&gt;HD:1 TB NVMe SSD&amp;nbsp;" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="750" y="228" width="180" height="290" as="geometry" />
         </mxCell>
         <mxCell id="iZzpUM9VxHZeIErT4uhQ-4" value="&lt;br&gt;DataBase&lt;br&gt;Server" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="iZzpUM9VxHZeIErT4uhQ-3">
