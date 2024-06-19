@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T07:48:13.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.5.5" etag="Hq8jzFHldzW5x8GhXeK9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T07:52:16.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="PGTlWeLd9znWxZP6HWRX" version="24.5.5" type="github">
   <diagram name="Page-1" id="EcqNfrim0UmWAMcfIdFD">
-    <mxGraphModel>
+    <mxGraphModel dx="832" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iZzpUM9VxHZeIErT4uhQ-1" value="CPU: Intel Core i7 (8th Gen) or AMD Ryzen 7&lt;div&gt;&lt;div&gt;RAM:16 GB&lt;br&gt;HD:512 GB SSD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="iZzpUM9VxHZeIErT4uhQ-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Manager&lt;br&gt;PC" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="iZzpUM9VxHZeIErT4uhQ-1">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="40" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZzpUM9VxHZeIErT4uhQ-3" value="DeploymentTarget1" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="150" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iZzpUM9VxHZeIErT4uhQ-4" value="Node1" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="iZzpUM9VxHZeIErT4uhQ-3">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZzpUM9VxHZeIErT4uhQ-5" value="DeploymentTarget1" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="iZzpUM9VxHZeIErT4uhQ-6" value="&lt;br&gt;Employee&lt;br&gt;PC" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="iZzpUM9VxHZeIErT4uhQ-5">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="40" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
